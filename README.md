@@ -1,2 +1,2 @@
 # git-coding
-git and github learning
+git and github learning is easy
